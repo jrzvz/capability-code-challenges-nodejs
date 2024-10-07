@@ -1,0 +1,14 @@
+{
+  "name": "capability-code-challenges_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "author": "j.rodriguez.valdez",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
